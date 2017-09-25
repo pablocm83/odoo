@@ -14,7 +14,7 @@
     'category': 'Localization',
     'sequence': 2,
 	'price': 1.0,
-	'currency': 'USD',
+	'currency': 'EUR',
     'summary': 'Cuban charts of accounts for TCP',
     'description': """
 Cuban charts of accounts for TCP.
